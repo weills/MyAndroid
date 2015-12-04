@@ -4,7 +4,7 @@
 .........
 
        <include layout="@layout/....." />  
- 灵活复写include 注意外层布局的嵌套
+ 灵活复写include 注意外层布局的嵌套,注意id
 ##merge##
        <merge xmlns:android="http://schemas.android.com/apk/res/android">  
        ......没有外层根布局，
